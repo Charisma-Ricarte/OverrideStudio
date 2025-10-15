@@ -1,19 +1,5 @@
 # OverrideStudio
 
-Each team should turn in your project’s GitHub repository link via Blackboard.
-
-Please make sure the instructor has access to your repository — either by making it public or by adding the instructor as a collaborator.
-
-
-
-This midterm milestone accounts for 10% of your overall project grade, as stated in the description.
-
-
-
-In your GitHub repository, please include at least a README file describing your plan to implement the project, including the following:
-
-
-
 1 Team Information
 
 Team name and all members’ names.
@@ -40,6 +26,3 @@ Which metrics you intend to measure (e.g., throughput, latency, retransmissions,
 What has been implemented so far (with brief descriptions of working components).
 What remains to be completed for the final milestone.
 Evidence of progress such as code structure, working prototypes, or initial testing.
-
-
-Teams are strongly encouraged to show more progress through meaningful commits and clear development history in GitHub.
