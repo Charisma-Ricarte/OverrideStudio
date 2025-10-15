@@ -1,9 +1,13 @@
 # OverrideStudio
 
 1 Team Information
+Travis Arguello
+Korinna Balderaz
+Samuel Mohr-Sanchez
+Charisma Ricarte
+Josh Torres
 
-Team name and all members’ names.
-Which of the three application projects your team selected (Mini-FTP, Group Chat, or Video Streaming).
+Application Project: Mini-FTP 
 
 2 Project Overview
 
