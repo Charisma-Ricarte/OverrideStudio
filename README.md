@@ -12,7 +12,6 @@ Application Project: Mini-FTP
 
 2 Project Overview
 
-A short summary of your project’s goals and what you intend to demonstrate.
 Our projects's goal is to design and implement a reliable file transfer system over UDP using a custome Go-Back-N (GBN) transport ptotocol. We aim for the Mini-FTP application to allow clients to connect to a server and perofmr basic file transfer commands like LIST, GET, PUT, similar to FTP. *Hopefully we will also be able to include a GUI for the user interaction and metrics tracking but it is not our main focus.
 
 3 Transport Protocol Design Plan
