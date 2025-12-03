@@ -1,0 +1,9 @@
+[project]
+name = "miniftp"
+version = "0.1.0"
+description = "Mini-FTP with custom transport over UDP"
+requires-python = ">=3.10"
+dependencies = ["pyside6", "numpy"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
